@@ -45,6 +45,4 @@ No build step or dependencies are needed.
 
    Then visit `http://localhost:8000`.
 
-## Author
 
-**Rabeya Noor** · [GitHub](https://github.com/rabeyanoor)
